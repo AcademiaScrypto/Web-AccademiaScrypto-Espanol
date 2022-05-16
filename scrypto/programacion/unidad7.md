@@ -6,6 +6,7 @@
 
 ::: tip 📺
 - [Video Demostración](https://youtu.be/ARUALBPJke4)
+- [Código GitHub](https://github.com/AcademiaScrypto/Web-AccademiaScrypto-Espanol/blob/master/scrypto/codigo/unidad7.rs)
 :::
 
 En la [unidad anterior](/scrypto/programacion/unidad6.md) comenzamos con la creación de una [DAO](/fundamentos/blockchain/dao.md) y pudimos codificar tanto al función constructora como una para el ingreso de nuevos miembros. Hoy vamos a crear dos nuevos métodos, uno para recompensar a los afiliados y otra para *banear* afiliados.
