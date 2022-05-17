@@ -1,4 +1,4 @@
-![Academia](/2.png)
+![Academia](./img/banner.png)
 
 # 🏫 La Academia Scrypto v.0.4
 ## Visión
