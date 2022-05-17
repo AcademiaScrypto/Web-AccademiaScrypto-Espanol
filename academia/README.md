@@ -27,7 +27,7 @@ Actualmente (28/04/2022) hay **+78** alumnos.
 <div class="card mb-3" style="max-width: 540px;">
   <div class="row g-0 justify-content-md-center">
     <div class="col-md-4">
-      <img src="https://static-assets.clubhouseapi.com/static/img/img_app_icon_wws.1c1a80b353ce.png" class="img-fluid rounded-start" alt="...">
+      <img src="./img/educacripto.png" class="img-fluid rounded-start" alt="...">
     </div>
     <div class="col-md-8">
       <div class="card-body">

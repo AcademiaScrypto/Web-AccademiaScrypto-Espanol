@@ -30,7 +30,7 @@ scrypto new-package <nombre>
 ```
 Si recuerdas al ejecutar este comando *new-package* Scrypto creo una carpeta con el *nombre* que escogimos, en aquel ejemplo el nombre fue 'miprimerblueprint':
 
-![carpeta](/carpeta_blue.png)
+![carpeta](./img/carpeta_blue.png)
 
 Dentro de la carpeta *src* escribiremos los diferentes blueprints, si fueran necesarios. (*Nota: más adelante veremos como llamar a otros blueprint)   
 

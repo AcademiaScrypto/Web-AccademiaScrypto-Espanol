@@ -1,6 +1,6 @@
 # Proceso Desarrollo - Análisis
 
-![Análisis](/analisis.png)
+![Análisis](./img/analisis.png)
 
 ### Modelo en cascada
 Aunque existen diferentes modelos para definir el ciclo de vida de un software, en este curso vamos ha hablar del modelo *Cascada* que es el más sencillo con el que empezar a programar. En este modelo las fases anteriores funcionarán una detrás de la otra de manera lineal. De este modo, solo cuando una fase termine se podrá continuar con la siguiente, y así progresivamente.
@@ -24,7 +24,7 @@ En esta fase, los requisitos que se deben definir son:
 
 Para poder representar estos requisitos, disponemos de varias herramientas. Diagramas de flujo, de transición de estados, diagrama de clases, de Entidad/Relación o diccionario de datos.
 
-![analisis_1](/analisis_problema.png)
+![analisis_1](./img/analisis_problema.png)
 
 ### Ejemplo de análisis
 

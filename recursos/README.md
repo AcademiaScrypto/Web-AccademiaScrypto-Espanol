@@ -1,4 +1,4 @@
-![Banner Rust](/7.png)
+![Banner](./img/banner.png)
 
 # :books: Recursos
 ### 📗 Libros Rust

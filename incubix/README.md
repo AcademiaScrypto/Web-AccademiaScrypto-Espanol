@@ -8,7 +8,7 @@ En la incubadora **Incubix** los proyectos son huevos 🥚 durante el tiempo en 
 Los proyectos ha sido seleccionado partiendo de varias premisas. Primero que tengan visos de ser **factibles tecnologicamente**. Segundo que las personas detras de los proyectos tengan la **suficiencia** como para afrontar el camino. Y tercero que cubra algún aspecto que sea **innovador** y pueda sacar el máximo provecho a Scrypto y la red Radix. 
 
 <div class="card mb-3">
-  <img src="/Bio.png" class="card-img-top" alt="...">
+  <img src="./img/Bio.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">🌳 EcoSystem, EL PODER DE LA SOSTENIBILIDA</h5>
     <p class="card-text">Proyecto basado en la reducción de la huella de carbono mediante la certificación digital.</p>
@@ -20,7 +20,7 @@ Los proyectos ha sido seleccionado partiendo de varias premisas. Primero que ten
 </div>
 
 <div class="card mb-3">
-  <img src="/identity.png" class="card-img-top" alt="...">
+  <img src="./img/identity.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">🧬 My Identity Labs. Privacy is not secrecy.</h5>
     <p class="card-text">Laboratorio de identidad digital que busca crear soluciones partiendo del respeto a la privacidad dentro de un sistema descentralizado y sin confianza.</p>
@@ -35,7 +35,7 @@ Los proyectos ha sido seleccionado partiendo de varias premisas. Primero que ten
 </div>
 
 <div class="card mb-3">
-  <img src="/cerveza.png" class="card-img-top" alt="...">
+  <img src="./img/cerveza.png" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">🍺 Cerveza Vereda, cerveza rural.</h5>
     <p class="card-text">Dispensador de cerveza previo pago con tokens. Proyecto de ingeniería basado en Rapberry pi zero.</p>

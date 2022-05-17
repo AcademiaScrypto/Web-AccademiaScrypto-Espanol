@@ -18,7 +18,7 @@ Un ejemplo de como transformar uno de esos proyectos web1 (estático) y web2 (di
 - Poder sacar fácilmente los XRD a una cuenta de los novios.
 
 ### Diseño
-![Diagramas](/diagrama_8.png)
+![Diagramas](./img/diagrama_8.png)
 
 - Una función constructora donde vamos a crear un contenedor para guardar los xrd que nos regalen y una un lugar donde guardar cuatro campos: identificador, nombre, comentario. Al crear el componente se guardará una dirección donde se enviaran los xrd.
 - Método para guardar 

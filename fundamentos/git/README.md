@@ -1,4 +1,5 @@
-![Git](/git.png)
+![Banner](./img/banner.png)
+
 # 🌲 Git - Control de Versiones 
 
 ### ¿Qué es un control de versiones, y por qué debería importarte? 

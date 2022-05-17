@@ -63,7 +63,7 @@ Vamos a listar el software que necesitas para poder empezar:
     resim new-account
     ```
     si ves el mensaje: "Transaction Status: SUCCESS " ya tienes todo configurado correctamente. 
-    ![Success instalation](/success.png)
+    ![Success instalación](./img/success.png)
 
 
 ::: tip

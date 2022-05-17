@@ -1,4 +1,4 @@
-![Banner blockchain](/blockchain.png)
+![Banner](./img/banner.png)
 
 # ⛓️ BlockChain
 

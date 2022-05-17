@@ -132,7 +132,7 @@ pub fn new(descripcion_nft: String, fecha_boda: String) -> (Bucket, Component) {
 En realidad en esta función constructora no hay nada que antes no hayamos codificado:
     1. Creamos un recurso fungible como control de acceso a ciertos métodos que solo podrán accionar los administradores de este componente.
     2. Creamos otro recurso fungible que, en esta ocasión, actuará como seguridad para la acuñación y cambio de los metadatos de los NFT.
-    3. Definiremos los NFT y guardarmos dicha definición para despues poder acuñar y modificar los non fungible 'hijos' de esta definición.
+    3. Definiremos los NFT y guardamos dicha definición para después poder acuñar y modificar los non fungible 'hijos' de esta definición.
     4. Finalmente inicializamos las variables de la estructura. 
 
 

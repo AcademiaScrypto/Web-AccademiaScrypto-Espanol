@@ -1,4 +1,4 @@
-![banner programación](/programacion.png)
+![banner programación](./img/banner.png)
 
 # 👩‍💻 Programación
 

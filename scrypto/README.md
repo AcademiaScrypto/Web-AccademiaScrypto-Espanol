@@ -1,4 +1,4 @@
-![Banner Rust](/3.png)
+![Banner Scrypto](./img/banner.png)
 
 # ✏️ Scrypto
 ## ¿Qué es Scrypto?

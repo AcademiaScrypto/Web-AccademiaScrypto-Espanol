@@ -8,7 +8,7 @@ Para empezar decir que Radix **no es blockchain**. Radix ha desarrollado su prop
 
 Pero Radix es mas que una red, mas que un software, un protocolo, un registro, un proyecto, un lenguaje de programación y un ecosistema. Es una plataforma, [que pretende ser](https://learn.radixdlt.com/article/what-is-the-radix-roadmap), escalable de manera infinita, segura por diseño, componible y creada por y para la DeFi.
 
-![Infografia Radix](/Infografia1.png)
+![Infografia Radix](./img/Infografia1.png)
 
 ::: warning Resumen:
 - Radix no es Blockchain, es una red de Layer 1

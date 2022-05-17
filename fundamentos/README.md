@@ -1,4 +1,4 @@
-![Banner fundamentos](/5.png)
+![Banner fundamentos](./img/banner.png)
 
 # 📖 Fundamentos
 

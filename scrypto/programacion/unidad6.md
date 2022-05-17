@@ -17,7 +17,7 @@ Durante las siguientes unidades vamos a crear una DAO (Organización autónoma d
 **Análisis:** Al pedirnos una DAO ya estamos dando por supuesto que vamos a crear una dApp. Para ello vamos a crear un *Componente*, dentro de la red de Radix, que nos va a permitir dar un *no fungible* a cada nuevo afiliado para que pueda demostrar su pertenencia y en un futuro identificarse dentro de la DAO.
 
 ### Diseño:
-![Diagramas](/diagramas_unidad6.png)
+![Diagramas](./img/diagramas_unidad6.png)
 
 Dos diagramas: uno para la función constructora y el segundo para la primera funcionalidad que nos solicitan y es la de poder registrarse, cualquiera, al DAO retornando un *no fungible* como acreditación de su pertenencia al DAO. *(Nota: en cuanto más lenguaje más natural expresemos en estos diagramas mejor, yo a veces peco de incluir términos técnicos propios del lenguaje o plataforma que utilice)*
 

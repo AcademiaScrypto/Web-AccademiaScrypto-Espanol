@@ -44,7 +44,7 @@ Con esto hemos convertido un problema en diferentes sub-problemas mas pequeños,
 
 En este caso vamos a crear 3 algoritmos, uno para cada uno de los tres procesos básicos que nos han pedido. Para ello hoy utilizaremos el *diagramas de flujo*, es algo muy básico pero útil cuando empezamos a programar, en este caso los diagramas serán muy sencillos pero en otros casos más adelante pueden sernos muy útiles para clarificar las ideas. (*Nota: En contenido extra al final de esta unidad tendrás mas información sobre diseño de algoritmos*)
 
-![diagrama](/diagrama1.png)
+![diagrama](./img/diagrama1.png)
 
 Ya hablaremos más sobre **algoritmos** y su diseño, pero de momento quédate con que en el diagrama *Crear Componente* se lee de la siguiente manera: Inicio -> Introducimos temperatura -> Procesamos la función *new* -> Finalizamos
 
@@ -325,7 +325,7 @@ Si todo salio bien podemos comprobarlo volviendo a ejecutar por ejemplo el méto
 
 En este caso con la propia ejecución ya hemos verificado la correcta ejecución del *Componente* y además hemos depurado, si hubiera sido necesario habríamos subsanando los errores producidos en la codificación. En algunos casos al codificar nos podemos percatar de que hayamos cometido errores en las fases de análisis y diseño, ahora estaríamos en el momento de volver a estas fases para corregir los errores y volver a codificar, compilar, ejecutar y verificar. 
 
-![verificacion](/verificacion.png)
+![verificacion](./img/verificacion.png)
 
 *Nota: Más adelante seguiremos explicando como en esta fase podemos implementar test (unitarios, funcionales, punta a punta, etc..) para verificar y depurar nuestros Blueprints.*
 

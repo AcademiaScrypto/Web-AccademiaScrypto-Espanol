@@ -5,7 +5,7 @@ En esta unidad de Rust, aprenderemos cómo crear un **hashmap**, que es una cole
 ### ¿Qué es un HashMap?
 Un hashmap es una colección de pares clave:valor, muy parecido a un diccionario en la vida real. De la misma manera, un hashmap de Rust tiene una colección de claves y valores, donde la clave es la palabra y el valor es su significado.
 
-![diccionario](/dic.jpeg)
+![diccionario](./img/dic.jpeg)
 
 ::: tip 
 De hecho, un hashmap en Rust es lo mismo que un *dictionary* en C# .

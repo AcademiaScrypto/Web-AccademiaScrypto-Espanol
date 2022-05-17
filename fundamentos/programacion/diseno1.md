@@ -1,8 +1,8 @@
 # Proceso Desarrollo - Diseño 1
 
-![diseño](/diseño.png)
+![diseño](./img/diseno.png)
 
-Durante la fase de **diseño** determinaremos el funcionamiento del software de una forma global y general sin entrar en detalles. Se crearán los diagramas y algoritmos de casos de uso y de secuencia para definir la funcionalidad del sistema. Es posible que la solución inicial no sea la más adecuada, por lo que en tal caso hay que refinarla y volver a esta fase en más de una ocasión durante el desarrollo del software.
+Durante la fase de **diseño** determinaremos el funcionamiento del software de una forma global y general sin entrar en detalles. Se crearán los diagramas y algoritmos de casos de uso y de secuencia para definir la funcionalidad del sistema. Es posible que la solución inicial no sea la más adecuada, por lo que en tal caso hay que refinar y volver a esta fase en más de una ocasión durante el desarrollo del software.
 
 ### Algoritmos
 
@@ -24,7 +24,7 @@ Las características de los algoritmos son:
 
 Un diagrama de flujo es una representación gráfica o pictórica de un algoritmo con la ayuda de diferentes símbolos, formas y líneas de flujo para demostrar el proceso del programa. Con algoritmos, fácilmente podemos entender un programa. El propósito principal del diagrama de flujo es analizar los diferentes procesos. Muchos gráficos estándar son usados en un diagrama de flujo:
 
-![símbolos](/simbolos.png)
+![símbolos](./img/simbolos.png)
 
 Si comparamos un diagrama de flujo con una película, entonces el algoritmo es la historia de esa película. En otras palabras, un algoritmo es el núcleo de un diagrama de flujo. 
 
@@ -42,7 +42,7 @@ Paso 4: Si X es menor a 20 entonces vuelve al paso 2.
 
 **Diagrama de Flujo:**
 
-![diag_1_20](/flowchart-algorithm.png)
+![diag_1_20](./img/flowchart-algorithm.png)
 
 ::: tip Resumen
 - Un diagrama de flujo es una representación pictográfica de un algoritmo, un algoritmo puede ser expresado y analizado a través de un diagrama de flujo.

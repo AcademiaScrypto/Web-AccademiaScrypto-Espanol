@@ -8,7 +8,7 @@ Para entender a qué se refiere este nuevo concepto, primero, hay que entender l
 2. **Autónoma:** entidad que goza de la capacidad para actuar de forma independiente a agentes externos.
 3. **Descentralizada:** no cuenta con una autoridad central; las funciones se encuentran dispersas y cada uno de los miembros tiene el poder de emitir su voto.
 
-![Dao](/dao.jpg)
+![Dao](./img/dao.jpg)
 *(Imagen: Diferencia entre la estructura de una organización tradicional y una descentralizada)*
 
 Dentro de toda organización es importante conocer quién toma las decisiones y cómo lo hace. Las Organizaciones Autónomas Descentralizadas están basadas en [DLT](/fundamentos/blockchain/dlt.md) y las reglas del juego definidas dentro de smart contracts o *compoenentes* como se conocen en RadixDLT.

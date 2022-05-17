@@ -1,4 +1,4 @@
-![Banner Rust](/4.png)
+![Banner](./img/banner.png)
 
 ## 🔥 Radix
 

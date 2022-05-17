@@ -8,7 +8,7 @@ Rust tiene un operador de flujo de control extremadamente poderoso llamado **mat
 
 Podemos escribir una función que puede tomar una moneda y, de manera similar a la máquina de conteo, determinar qué moneda es y devolverá su valor en centimos, como se muestra aquí:
 
-![billetes euro](/euros.png)
+![billetes euro](./img/euros.png)
 
 ```rust
 enum ColorBillete {

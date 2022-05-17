@@ -28,7 +28,7 @@ Recuerda los atajos de teclado pueden agilizar mucho tu trabajo de desarrollo.
 :::
 
 ### Crear nuevo BluePrint
-![BluePrint](/blueprint.png)
+![BluePrint](./img/blueprint.png)
 ::: tip
 - Un blueprint, en Radix, es como un plano que define la estructura y la lógica de un *Componente* o contrato inteligente. 
 :::
@@ -49,13 +49,13 @@ Escribe en tu terminal desde VSC el comando para la creación de un BluePrint:
 ```
 scrypto new-package miprimerBluePrint
 ```
-![nuevo blueprint](/new_blue.png)  
+![nuevo blueprint](./img/new_blue.png)  
 
 *Nota: Si no ha dado ningún mensaje por terminal es que todo ha salido bien*
 
 ¿Qué ha sucedido? Se ha creado una nueva carpeta con el nombre de tu componente y dentro de esta dos carpetas, de momento nos vamos a centrar en la carpeta *src* que contiene un archivo llamado *lib.rs* que es donde está la lógica de tu blueprint.  
 
-![mi primer blueprint](/miprimerblue.png)  
+![mi primer blueprint](./img/miprimerblue.png)  
 
 ::: tip
 La extensión de los archivos en Scrypto será *.rs*, que es la nativa de Rust.

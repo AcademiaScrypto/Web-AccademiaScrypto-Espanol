@@ -1,6 +1,6 @@
 # Ramas
 
-![Git básico](/git_ramas.svg)
+![Git básico](./img/git_ramas.svg)
 
 Para la creación de proyectos sencillos una buena metodología es tener una rama (branch) principal **master** y una rama **development** donde comprobaremos que todos los cambio funcionen correctamente antes de enviar a **master** y luego tendremos multiples "features branches" para que cada desarrollador pueda encargarse de una tarea definida, trabajarla y probarla a gusto antes de incluir esos cambios en la rama **development**. 
 
@@ -51,11 +51,11 @@ git branch -d nombre_rama
 
 Desde Github primero seleccionaremos desde el menu horizontal **Pull Request** y segundo **Compare & pull request**:
 
-![rama1](/git_rama1.png)
+![rama1](./img/git_rama1.png)
 
 Primero podemos **seleccionar las ramas a comparar**, y donde se incorporaran los cambios. Segundo podemos **comparar** el código de la rama con la nueva característica hacia la rama destino. Para terminar de verificar que todo es correcto. Y tercero, una vez todo es verificado y ok, creamos un **pull request**:
 
-![rama1](/git_rama2.png)
+![rama1](./img/git_rama2.png)
 
 ::: tip
 - Si te diste cuenta, podemos dejar comentarios para explicar los cambios que vamos a aplicar. 
@@ -63,11 +63,11 @@ Primero podemos **seleccionar las ramas a comparar**, y donde se incorporaran lo
 
 Unimos las ramas, incorporando las nuevas características al codigo matriz.
 
-![rama1](/git_rama3.png)
+![rama1](./img/git_rama3.png)
 
 Y finalmente borramos la rama con las nuevas características:
 
-![rama1](/git_rama4.png)
+![rama1](./img/git_rama4.png)
 
 ::: tip
 - Recuerda borrar localmente la rama, para que no la veas entre tus ramas.

@@ -1,6 +1,6 @@
 # Básicos local
 
-![Git básico](/git_basico.png)
+![Git básico](./img/git_basico.png)
 
 ### Workspace
 📁 Es la carpeta local, es decir en nuestro computador, donde tenemos guardado nuestro proyecto. Para poder inicializar una proyecto con Git utilizaremos el comando *init*:

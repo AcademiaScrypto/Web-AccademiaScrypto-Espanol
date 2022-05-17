@@ -88,7 +88,7 @@ Scrypto utiliza los *Attributes* (#[Attr]) de Rust para implementar, en este cas
 - El derive atributo permite que se generen automáticamente nuevos elementos para las estructuras de datos. [+info](https://doc.rust-lang.org/reference/attributes/derive.html)
 :::
 
-![cine](/cine.jpg)
+![cine](./img/cine.jpg)
 
 En este caso, en concreto, los metadatos/atributos tiene que ver con la numeración de butacas de una sala de cine, por eso hemos creado las variables fila y columna de [tipo i32](/rust/tipodatos.md). 
 

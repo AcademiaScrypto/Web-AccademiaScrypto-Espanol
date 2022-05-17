@@ -1,4 +1,4 @@
-![Banner Rust](/1.png)
+![Banner Rust](./img/banner.png)
 
 # 🧭 Ruta  
 ###

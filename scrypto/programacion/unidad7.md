@@ -15,7 +15,7 @@ En la [unidad anterior](/scrypto/programacion/unidad6.md) comenzamos con la crea
 **Problema/Análisis:** Nos gustaría que nuestra DAO pudiera otorgar puntos a los miembros a cambio de XRD, para ir teniendo liquidez, estos puntos equivaldrán 1 a 1 con XRD, la idea es que un miembro pueda añadir liquidez al DAO y sea recompensado con tantos puntos como XRD haya añadido al tesoro de la DAO. Además nos gustaría que miembros con muchos puntos, al menos 10000, tengan el poder de bloquear a otros afiliados. 
 
 ### Diseño
-![Diagramas](/dao2_diagrama.png)
+![Diagramas](./img/dao2_diagrama.png)
 
 Al menos dos nuevos métodos: uno para recoger los XRD, guardarlos en el tesoro del DAO y seguidamente convertir esos XRD en puntos que guardaremos dentro del NFT. Y otro método para permitir a aquellos afiliados que tengan más de 10000 puntos puedan bloquear a un afiliado.
 
@@ -146,7 +146,7 @@ assert!(!nft_datos.bloqueado, "¡Estas bloqueado en la DAO!");
 
 Si el macro anterior al ser evaluado devuelve *false* pasaremos a actualizar los puntos del afiliado: 
 
-```rus
+```rust
 nft_datos.puntos += puntos;
 
 self.minteador.authorize(|badge| {

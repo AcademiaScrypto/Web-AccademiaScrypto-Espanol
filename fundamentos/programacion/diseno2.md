@@ -1,6 +1,6 @@
 # Proceso Desarrollo - Diseño 2
 
-![diseño](/diseño.png)
+![diseño](./img/diseno.png)
 
 ### Problemas complejos
 
@@ -30,7 +30,7 @@ Leer el radio de un circunferencia y calcular e imprimir su superficie y su circ
     - Escribir Radio, Longitud, Superficie
 Lo podemos ver en un diagrama estructurado:
 
-![topdown](/algoritmo_estructurado.png)
+![topdown](./img/algoritmo_estructurado.png)
 
 ### Contenido Extra:
 - [Curso de introducción a la programación con pseudocódigo](https://plataforma.josedomingo.org/pledin/cursos/programacion/)
