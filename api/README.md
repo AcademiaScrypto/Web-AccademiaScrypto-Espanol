@@ -1,4 +1,5 @@
 ![Banner Api](/6.png)
+<img :src="('/6.png')" alt="Academia Scrypto">
 
 # 🔑 Radix API
 Desde principios del año 2022, y tras una renovación completa, Radix nos ofrece al menos tres maneras diferentes de acceder a los datos de la red. Cada una de las formas responde a casos de uso diferentes y brindan la posibilidad a los desarrolladores acotar el acceso a datos a las necesidades de su proyecto. 
