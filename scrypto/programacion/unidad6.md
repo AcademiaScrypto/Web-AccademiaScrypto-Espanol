@@ -6,6 +6,7 @@
 
 ::: tip 📺
 - [Pronto Video Demostración]()
+- [Código GitHub](https://github.com/AcademiaScrypto/Web-AccademiaScrypto-Espanol/blob/master/scrypto/codigo/unidad7.rs)
 :::
 
 Durante las siguientes unidades vamos a crear una DAO (Organización autónoma descentralizada), que sin duda durante 2022 están llamadas a ser tendencia y seguro que han llegad1o para quedarse entre nosotros. Aprender a crear DAOs puede tener un gran potencial. ¡Comencemos!
