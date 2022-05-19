@@ -1,9 +1,11 @@
 <img :src="$withBase('/Academia.png')" alt="Academia Scrypto">
 
 ## Curso de Scrypto
-Aprende a desarrollar [**Contratos Inteligentes**](https://twitter.com/andresleon79/status/1446467682207928342?s=20) con **Scrypto** sin conocimientos previos y **gratis**, gracias a los patrocinadores [🏖️ Nodo Suena Merengue](https://suenamerengue.com/) y [🖐️ Club Educa Cripto](https://twitter.com/EducaCripto).  
+Aprende a desarrollar [**Contratos Inteligentes**](/fundamentos/blockchain/contratos.md) con **Scrypto** sin conocimientos previos y **gratis**, gracias a los patrocinadores [🏖️ Nodo Suena Merengue](https://suenamerengue.com/) y [🖐️ Club Educa Cripto](https://twitter.com/EducaCripto).  
 
 Nuevo contenido todas las semana 🔥🔥🔥
+
+<img :src="$withBase('/italia.png')" alt="Academia Scrypto" width="25px" height="25px"> Ahora la también en [Italiano](/it/index.md) *(en proceso de traducción)*
 
 ### ¿Qué es Scrypto?
 
